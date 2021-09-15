@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382748343898",
+    "project_id": "book-app-5f20d",
+    "storage_bucket": "book-app-5f20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382748343898:android:ed27865ef0740857caa263",
+        "android_client_info": {
+          "package_name": "com.korodog.book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382748343898-l1117h1g9fkm67qbb62nagv31bhi6l3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJbdgWrAzMdcED6mBX6k2RmDM1ZTbGcvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382748343898-l1117h1g9fkm67qbb62nagv31bhi6l3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
