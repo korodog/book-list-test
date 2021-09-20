@@ -1,5 +1,8 @@
 class Book {
-  Book(this.title, this.author);
+  Book(this.id, this.title, this.author, this.imgURL);
+
+  String id;
   String title;
   String author;
+  String? imgURL;
 }
